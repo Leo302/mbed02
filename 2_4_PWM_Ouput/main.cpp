@@ -9,5 +9,4 @@ int main() {
   PWM1.period(0.01);
 
   PWM1 = 0.5;
-
 }
